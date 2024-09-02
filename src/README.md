@@ -47,8 +47,6 @@ footer: 因开放而精彩，因开源而未来！Powered by vue-press-hope
 
 欢迎来到电子科技大学成都学院开放原子开源社团！
 
-网站项目由 `vue-press-hope` 主题强力驱动。
-
 :::
 
 > [!tip]
