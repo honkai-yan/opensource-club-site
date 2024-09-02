@@ -5,7 +5,7 @@ import { zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
 
-  hostname: "https://mister-hope.github.io",
+  hostname: "https://opensouce-club.top/",
 
   themeColor: true,
 
