@@ -4,6 +4,7 @@ shortTitle: 日常笔记 01
 isOriginal: true
 date: 2024-09-02
 order: -1
+index: false
 author: Da Capo
 category:
   - 技术#日常笔记

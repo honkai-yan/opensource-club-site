@@ -14,7 +14,7 @@ export default hopeTheme({
   fullscreen: true,
 
   author: {
-    name: "电子科技大学成都学院开放原子开源社团",
+    name: "开放原子开源社团",
     url: "",
   },
 
