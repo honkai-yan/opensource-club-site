@@ -16,7 +16,7 @@ export default hopeTheme({
   author: {
     name: "开放原子开源社团",
     url: "",
-  },
+  }, 
 
   iconAssets: "fontawesome-with-brands",
 
