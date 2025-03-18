@@ -115,7 +115,7 @@ export default hopeTheme({
 
     comment: {
       provider: "Artalk",
-      server: "http://192.140.166.42:9090",
+      server: "https://192.140.166.42:9090",
       site: "CDUESTC评论系统",
       locale: "zh-CN"
     },
