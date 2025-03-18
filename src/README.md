@@ -1,19 +1,28 @@
 ---
+# 该页面为主页
 home: true
+# 页面布局
 layout: BlogHome
+# 页内展示图标
 icon: home
-title: 主页
-heroImage:
+# 标题
+title: CDUESTC开放原子开源社团
+# 背景图片
 # bgImage: /logo.png
-bgImageStyle: "filter: blur(3px)"
+# 背景图片样式
+bgImageStyle: "filter: blur(10px)"
+# 主页slogan
 heroText: 电子科技大学成都学院开放原子开源社团
+# 小slogan
 tagline: 因开放而精彩，因开源而未来！
+# 主页背景是否全屏展示
 heroFullScreen: false
+# 主页项目展示
 projects:
   # - icon: project
   #   name: 智慧校园电子班牌系统
   #   desc: project detailed description
-    # link: https://your.project.link
+  # link: https://your.project.link
 
   # - icon: link
   #   name: link name
@@ -40,21 +49,6 @@ projects:
   #   desc: Detailed description of this custom item
   #   link: https://link.to.your.friend
 
+# 页脚
 footer: 因开放而精彩，因开源而未来！Powered by vue-press-hope
 ---
-
-:::center
-
-欢迎来到电子科技大学成都学院开放原子开源社团！
-
-:::
-
-> [!tip]
-> 网站处于内测阶段，敬请期待！
-
-
-<!-- This is a blog home page demo.
-
-To use this layout, you should set both `layout: BlogHome` and `home: true` in the page front matter.
-
-For related configuration docs, please see [blog homepage](https://theme-hope.vuejs.press/guide/blog/home.html). -->

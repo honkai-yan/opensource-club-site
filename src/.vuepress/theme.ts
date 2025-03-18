@@ -1,3 +1,5 @@
+// 主题配置
+
 import { hopeTheme } from "vuepress-theme-hope";
 
 import { zhNavbar } from "./navbar/index.js";

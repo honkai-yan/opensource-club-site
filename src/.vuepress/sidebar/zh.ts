@@ -1,3 +1,5 @@
+// 侧边栏配置-中文配置
+
 import { sidebar } from "vuepress-theme-hope";
 
 export const zhSidebar = sidebar({

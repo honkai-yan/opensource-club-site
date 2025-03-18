@@ -1,3 +1,5 @@
+// 配置入口文件
+
 import { defineUserConfig } from "vuepress";
 
 import theme from "./theme.js";
