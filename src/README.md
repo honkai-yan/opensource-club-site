@@ -1,4 +1,10 @@
 ---
+# 搜索引擎拉取验证
+head:
+  - - meta
+    - name: baidu-site-verification
+      content: codeva-6onWIk37CC
+  # <meta name="baidu-site-verification" content="codeva-6onWIk37CC" />
 # 该页面为主页
 home: true
 # 页面布局
