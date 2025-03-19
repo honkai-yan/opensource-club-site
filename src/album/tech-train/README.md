@@ -1,5 +1,5 @@
 ---
-title: 技术培训
+title: 技术&培训
 icon: flag
 index: false
 article: false
