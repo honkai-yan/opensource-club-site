@@ -4,9 +4,9 @@ import { hopeTheme } from "vuepress-theme-hope";
 
 import { zhNavbar } from "./navbar/index.js";
 import { zhSidebar } from "./sidebar/index.js";
+import { commentPlugin } from "@vuepress/plugin-comment";
 
 export default hopeTheme({
-
   hostname: "https://opensouce-club.top/",
 
   themeColor: true,
@@ -18,7 +18,7 @@ export default hopeTheme({
   author: {
     name: "开放原子开源社团",
     url: "",
-  }, 
+  },
 
   iconAssets: "fontawesome-with-brands",
 
@@ -112,6 +112,13 @@ export default hopeTheme({
     //   provider: "Waline",
     //   serverURL: "https://waline-comment.vuejs.press",
     // },
+
+    comment: {
+      provider: "Artalk",
+      server: "http://192.140.166.42:2095",
+      site: "CDUESTC评论系统",
+      locale: "zh-CN"
+    },
 
     components: {
       components: ["Badge", "VPCard"],
