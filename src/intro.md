@@ -1,4 +1,5 @@
 ---
+title: 关于社团
 icon: user
 index: false
 article: false
