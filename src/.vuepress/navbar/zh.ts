@@ -19,6 +19,11 @@ export const zhNavbar = navbar([
     link: "/tech-article/",
   },
   {
+    text: "相册",
+    icon: "image",
+    link: "/album/"
+  },
+  {
     text: "关于社团",
     icon: "user",
     link: "/intro",
