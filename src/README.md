@@ -13,6 +13,8 @@ layout: BlogHome
 icon: home
 # 标题
 title: CDUESTC开放原子开源社团
+# logo
+# heroImage: /logo.png
 # 背景图片
 # bgImage: /logo.png
 # 背景图片样式
@@ -28,7 +30,7 @@ projects:
   # - icon: project
   #   name: 智慧校园电子班牌系统
   #   desc: project detailed description
-  # link: https://your.project.link
+  #   link: https://your.project.link
 
   # - icon: link
   #   name: link name

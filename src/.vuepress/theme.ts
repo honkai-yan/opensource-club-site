@@ -17,7 +17,7 @@ export default hopeTheme({
 
   author: {
     name: "开放原子开源社团",
-    url: "",
+    url: "https://opensouce-club.top",
   },
 
   iconAssets: "fontawesome-with-brands",
@@ -36,7 +36,7 @@ export default hopeTheme({
       // Dingding: "https://example.com",
       // Discord: "https://example.com",
       // Dribbble: "https://example.com",
-      // Email: "mailto:info@example.com",
+      // Email: "https://peter-adams@qq.com",
       // Evernote: "https://example.com",
       // Facebook: "https://example.com",
       // Flipboard: "https://example.com",
@@ -50,7 +50,7 @@ export default hopeTheme({
       // Linkedin: "https://example.com",
       // Pinterest: "https://example.com",
       // Pocket: "https://example.com",
-      QQ: "https://qm.qq.com/q/i0fsINhlfy",
+      QQ: "https://qm.qq.com/q/GdgPoRwM0O",
       // Qzone: "https://example.com",
       // Reddit: "https://example.com",
       // Rss: "https://example.com",
@@ -117,7 +117,7 @@ export default hopeTheme({
       provider: "Artalk",
       server: "http://192.140.166.42:2095",
       site: "CDUESTC评论系统",
-      locale: "zh-CN"
+      locale: "zh-CN",
     },
 
     components: {
