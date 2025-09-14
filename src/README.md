@@ -45,12 +45,12 @@ projects:
   # - icon: article
   #   name: 社团活动
   #   desc: Detailed description of the article
-    # link: https://link.to.your.article
+  # link: https://link.to.your.article
 
   # - icon: friend
   #   name: 友链
   #   desc: Detailed description of friend
-    # link: https://link.to.your.friend
+  # link: https://link.to.your.friend
 
   # - icon: https://theme-hope-assets.vuejs.press/logo.svg
   #   name: custom item

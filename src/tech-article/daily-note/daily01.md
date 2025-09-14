@@ -7,8 +7,7 @@ date: 2024-09-02
 author: Da Capo
 
 category:
-  - 技术
-  - 编程笔记
+  - 技术笔记
 tag:
   - Git
   - Node
@@ -26,15 +25,15 @@ tag:
 ```js
 // controller.js
 export const useController = {
-	// ......
-}
+  // ......
+};
 ```
 
 而在 `main.js` 中使用 `import` 语句导入 `controller` 模块后，运行时提示找不到模块。
 
 ```js
 // main.js
-import { useController } from '....../controller';
+import { useController } from "....../controller";
 // ......
 ```
 
@@ -84,7 +83,7 @@ Error [ERR_MODULE_NOT_FOUND]: Cannot find module '......\controller' imported fr
 - R： 文件名被修改了。 `Renamed`
 - T： 文件的类型被修改了。 `Typed`
 - U： 文件尚未被合并（需要完成合并才能提交），即尚未添加到暂存区。 `Unmerged`
-- X： 未知状态（也可能是 `git` 的bug）。 `X`
+- X： 未知状态（也可能是 `git` 的 bug）。 `X`
 
 ---
 
@@ -118,7 +117,7 @@ git reset --soft HEAD^
 >
 > 这时候就会出现这个提示。
 >
-> 因为 yyf 分支是从 dev 分支创建的，然后你现在却要把 dev 分支合并到 yyf 中去。这种操作就比较奇怪，git就会提示你是不是真的要合并，并且希望你写出合并的原因。
+> 因为 yyf 分支是从 dev 分支创建的，然后你现在却要把 dev 分支合并到 yyf 中去。这种操作就比较奇怪，git 就会提示你是不是真的要合并，并且希望你写出合并的原因。
 >
 > 更形象点的例子。
 >

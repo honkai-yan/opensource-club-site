@@ -113,12 +113,12 @@ export default hopeTheme({
     //   serverURL: "https://waline-comment.vuejs.press",
     // },
 
-    comment: {
-      provider: "Artalk",
-      server: "http://192.140.166.42:2095",
-      site: "CDUESTC评论系统",
-      locale: "zh-CN",
-    },
+    // comment: {
+    //   provider: "Artalk",
+    //   server: "http://192.140.166.42:2095",
+    //   site: "CDUESTC评论系统",
+    //   locale: "zh-CN",
+    // },
 
     components: {
       components: ["Badge", "VPCard"],
